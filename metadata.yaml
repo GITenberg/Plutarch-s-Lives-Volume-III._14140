@@ -1,0 +1,46 @@
+_repo: Plutarch-s-Lives-Volume-III._14140
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+  - agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DE'
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+tableOfContents: Life of Nikias -- Life of Crassus -- Comparison of Nikias and Crassus
+  -- Life of Sertorius -- Life of Eumenes -- Comparison of Sertorius and Eumenes --
+  Life of Agesilaus -- Life of Pompeius -- Comparison of Agesilaus and Pompeius --
+  Life of Alexander -- Life of C. Cæsar -- Life of Phokion -- Life of Cato.
+title: Plutarch's Lives, Volume 3 (of 4)
+url: http://www.gutenberg.org/ebooks/14140
